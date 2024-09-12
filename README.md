@@ -2,23 +2,11 @@
 
 ## Overview
 
-TODO: Write a project description
+Review of CS208 CSS code
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+I'm not to sure if I got this 100% it will change by the time you read this.
+I have no errors when running my html through Nu HTML Checker. So, HTML Codes
+are running normally. My style for this unfortunately does not match the website
+100%, so I will still do some work on it till the due date which is tomorrow.
